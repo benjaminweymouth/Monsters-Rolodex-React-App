@@ -1,4 +1,4 @@
-# Monsters Rolodex: Reactjs Example Using Class Components
+# Monsters Rolodex: Reactjs App Example Using Class Components
 
 The purpose of this repo is to demostrate practice in React using Class components specifically. A separate repo will dive into functional components and hooks. 
 
