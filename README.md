@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/47256041/181611519-7c005253-b1ab-419c-9fa0-8b8a3e14f941.png)
+
 # Monsters Rolodex: Reactjs App Example Using Class Components
 
 Visit the live deployed App here: https://benjaminweymouth.github.io/Monsters-Rolodex-React-Using-Class-Components/
