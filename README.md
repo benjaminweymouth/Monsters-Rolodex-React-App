@@ -1,5 +1,7 @@
 # Monsters Rolodex: Reactjs App Example Using Class Components
 
+Visit the live deployed App here: https://benjaminweymouth.github.io/Monsters-Rolodex-React-Using-Class-Components/
+
 The purpose of this repo is to demostrate practice in React using Class components specifically. A separate repo will dive into functional components and hooks. 
 
 This React App will utilize a filtering search component to allow end-users to search through an index of fictitious users, represented as Monsters. 
